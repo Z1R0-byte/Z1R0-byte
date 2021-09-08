@@ -17,10 +17,10 @@
 - Contribute atleast somethings to github. 
 
 ### Github Stats
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akr-25&show_icons=true&locale=en" alt="akr-25" /></p>
-<p align="center">&nbsp;<img style="display:flex; align-items:center" src="https://github-readme-stats.vercel.app/api?username=akr-25&show_icons=true&locale=en" alt="amankr" />!!! No, I don't code in CSS and C# all day</p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Z1R0-byte&show_icons=true&locale=en" alt="akr-25" /></p>
+<p align="center">&nbsp;<img style="display:flex; align-items:center" src="https://github-readme-stats.vercel.app/api?username=Z1R0-byte&show_icons=true&locale=en" alt="Eeshaan" />!!! No, I don't code in CSS and C# all day</p>
 <p align="center">!!! No, I don't code in CSS and C# all day 😂😂!!!<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akr-25&show_icons=true&locale=en" alt="akr-25" /></p>
-<p align="center">&nbsp;<img style="display:flex; align-items:center" src="https://github-readme-stats.vercel.app/api?username=akr-25&show_icons=true&locale=en" alt="amankr" /></p>
+<p align="center">&nbsp;<img style="display:flex; align-items:center" src="https://github-readme-stats.vercel.app/api?username=Z1R0-byte&show_icons=true&locale=en" alt="Eeshaan" /></p>
 <br>   
 <br>  
 
