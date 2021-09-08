@@ -14,7 +14,7 @@
 - :heavy_check_mark: Learn basic machine learning.
 - :yellow_circle: Do CP and understand stock markets. 
 - Be better at math. 
-- Contribute atleast somethings to github. 
+- Contribute atleast something to github. 
 
 ### Github Stats
 <p align="center">&nbsp;<img style="display:flex; align-items:center" src="https://github-readme-stats.vercel.app/api?username=Z1R0-byte&show_icons=true&locale=en" alt="Eeshaan" />
