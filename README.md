@@ -16,6 +16,14 @@
 - Be better at math. 
 - Contribute atleast somethings to github. 
 
+### Github Stats
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akr-25&show_icons=true&locale=en" alt="akr-25" /></p>
+<p align="center">&nbsp;<img style="display:flex; align-items:center" src="https://github-readme-stats.vercel.app/api?username=akr-25&show_icons=true&locale=en" alt="amankr" />!!! No, I don't code in CSS and C# all day</p>
+<p align="center">!!! No, I don't code in CSS and C# all day 😂😂!!!<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akr-25&show_icons=true&locale=en" alt="akr-25" /></p>
+<p align="center">&nbsp;<img style="display:flex; align-items:center" src="https://github-readme-stats.vercel.app/api?username=akr-25&show_icons=true&locale=en" alt="amankr" /></p>
+<br>   
+<br>  
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
