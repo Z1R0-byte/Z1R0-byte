@@ -11,12 +11,10 @@
 - 👯 Fun fact: I love anime and playing MOBA.  
 
 ### 2021 GOALS
-- [x] Learn basic web and app development 
-- [ ] Do CP and understand stock markets. 
-- [ ] Be better at math. 
 - :heavy_check_mark: Learn basic machine learning.
 - :yellow_circle: Do CP and understand stock markets. 
 - Be better at math. 
+- Contribute atleast somethings to github. 
 
 ### Connect with me:
 
