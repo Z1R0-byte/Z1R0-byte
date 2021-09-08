@@ -17,7 +17,6 @@
 - Contribute atleast somethings to github. 
 
 ### Github Stats
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Z1R0-byte&show_icons=true&locale=en" alt="akr-25" /></p>
 <p align="center">&nbsp;<img style="display:flex; align-items:center" src="https://github-readme-stats.vercel.app/api?username=Z1R0-byte&show_icons=true&locale=en" alt="Eeshaan" />
 
 ### Connect with me:
